@@ -1,0 +1,1 @@
+-- Base de datos para hacer gestión de localidades y aplica el concepto de Volcado de datos
